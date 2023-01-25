@@ -1,0 +1,28 @@
+.btn{
+    background-color: rgb(139, 86, 47);
+    color:antiquewhite
+}
+.bg-grey{
+    background-color: black;
+}
+.py-6{
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+}
+.list-unstyled{
+    padding-left: 0;
+    list-style: none;
+}
+.list-unstyled li a{
+    text-decoration: none;
+
+}
+.list-unstyled li a:hover{
+    text-decoration: underline;
+}
+.text-heading{
+    color: antiquewhite;
+}
+.text-para{
+    color: antiquewhite;
+}
